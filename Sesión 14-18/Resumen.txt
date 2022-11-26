@@ -1,0 +1,22 @@
+1. Integrantes: (Libre)
+2. Definir el proyecto(
+	Nivelación: por votación un proyecto
+	Otros: El Tripulante elige.
+)
+Objetivo: 
+	Identificar necesidades***
+	Alcance del proyecto
+	Justificación 
+	Objetivos - {General - especificos}
+
+	Requerimientos ddel sistema [srs IEEE 830]
+	Modelado [uml, mer, mr]
+	
+	Repositorios
+
+mr->sentencias SQL -> DDL-DML
+
+===========================================
+Tendencias
+	Framework
+	Nativo
